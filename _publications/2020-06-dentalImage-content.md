@@ -1,7 +1,7 @@
 ---
 title: "Estimating Hard-tissue Conditions from Dental Images via Machine Learning"
 collection: publications
-permalink: /publications/2020-06-dentalImage
+permalink: /publications/2020-06-dentalImage-content
 excerpt: 
 date: June, 2020
 venue: 'The 20th International Conference on BioInformatics and BioEngineering (ieeeBIBE)'
