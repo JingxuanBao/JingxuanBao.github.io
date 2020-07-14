@@ -1,12 +1,11 @@
 ---
 title: "Estimating Hard-tissue Conditions from Dental Images via Machine Learning"
 collection: publications
-permalink: /publications/2020-06-dentalImage-content
+permalink: /publications/dentalImage.md
 excerpt: We applied four categories of machine learning strategies including nine different methods with two different feature representations to estimate the probability and severity of dental hard-tissue conditions from photographic tooth images.
 date: June, 2020
 venue: 'The 20th International Conference on BioInformatics and BioEngineering (ieeeBIBE2020)'
 paperurl: 
-citation: 'Jingxuan Bao, Mansu Kim, Qing Sun, Anderson T. Hara, Gerardo Maupome, Li Shen. (2020). &quot;Estimating Hard-tissue Conditions from Dental Images via Machine Learning.&quot; <i>20th International Conference on BioInformatics and BioEngineering (ieeeBIBE)</i>.'
 ---
 
 ## Abstract
