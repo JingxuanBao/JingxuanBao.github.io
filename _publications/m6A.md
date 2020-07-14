@@ -14,4 +14,4 @@ The ISOpureR method uses the gradient decent method to maximize the complete lik
 
 Jingxuan Bao, Zhen Wei, Jia Meng, Jionglong Su. (2019). &quot;Estimate the Proportion of Non-Specific Binding in MeRIP-Seq Data.&quot; <i>The Third International Conference on Biological Information and Biomedical Engineering</i>.
 
-[Download paper here](http://jingxuanbao.github.io/files/2340-8275-1-PB.pdf)
+[Download paper here](http://jingxuanbao.github.io/files/BIBE25712.pdf)
