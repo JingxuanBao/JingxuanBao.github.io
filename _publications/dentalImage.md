@@ -6,7 +6,7 @@ excerpt: We applied four categories of machine learning strategies including nin
 date: June, 2020
 venue: 'The 20th International Conference on BioInformatics and BioEngineering (ieeeBIBE2020)'
 paperurl: 
-citation: 
+citation: 'Jingxuan Bao, Mansu Kim, Qing Sun, Anderson T. Hara, Gerardo Maupome, Li Shen. (2020). &quot;Estimating Hard-tissue Conditions from Dental Images via Machine Learning.&quot; <i>20th International Conference on BioInformatics and BioEngineering (ieeeBIBE)</i>.'
 ---
 
 ## Abstract
