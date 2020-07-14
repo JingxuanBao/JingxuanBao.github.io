@@ -1,7 +1,7 @@
 ---
 title: "Estimate the Proportion of Non-Specific Binding in MeRIP-Seq Data"
 collection: publications
-permalink: /publications/m6A.md
+permalink: /publications/m6A
 excerpt: We estimate the absolute proportion of m6A specific binding mRNA in the N6-methyladenosine (IP sample) with the application of ISOpureR method.
 date: July, 2019
 venue: 'The Third International Conference on Biological Information and Biomedical Engineering'
