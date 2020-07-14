@@ -1,7 +1,7 @@
 ---
 title: "Optimal Scheduling for CK Advertisements on TV Programs"
 collection: publications
-permalink: /publications/ad-auction.md
+permalink: /publications/ad-auction
 excerpt: We applied two ways, impression based approach and demographic approach, in evaluation of the advertisements orders for a specific company with modified data provided by Clypd.
 date: Oct., 2017
 venue: 'Proceedings of the National Conference On Undergraduate Research (NCUR) 2017'
