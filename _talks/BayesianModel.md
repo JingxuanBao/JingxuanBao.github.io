@@ -4,7 +4,7 @@ collection: talks
 type: "Research Project"
 permalink: /talks/BayesianModel
 venue: "Perelman School of Medicine"
-date: 2020-05
+date: 2020-05-01
 location: "Philadelphia, PA"
 ---
 
