@@ -3,7 +3,7 @@ title: "Analysis of Case Fatality Rate Related to Coronavirus Disease 2019"
 collection: talks
 type: "Final Project of Bayesian Statistics Course"
 permalink: /talks/covid-19
-venue: "Perelman School of Medicine"
+venue: "Wharton"
 excerpt: We provide a Bayesian Mixture Model to classify the Case Fatality Rate (CFR) of Coronavirus Disease 2019 (COVID-19) in terms of region.
 date: 2020-04-28
 location: "Philadelphia PA, USA"
