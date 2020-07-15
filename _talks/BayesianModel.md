@@ -2,8 +2,9 @@
 title: "Bayesian Generalized Factor Analysis Model"
 collection: talks
 type: "Research Project"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/BayesianModel
 venue: "Perelman School of Medicine"
+date: 2020-05
 location: "Philadelphia, PA"
 ---
 
