@@ -4,6 +4,7 @@ collection: talks
 type: "Research Project"
 permalink: /talks/BayesianModel
 venue: "Perelman School of Medicine"
+excerpt: We are developing a generalized Bayesian factor analysis (GBFA) framework, which is a sparse Bayesian factor analysis that can take into account the graph information.
 date: 2020-05-01
 location: "Philadelphia, PA"
 ---
