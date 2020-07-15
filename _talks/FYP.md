@@ -15,5 +15,7 @@ an comparison between the problem of deconvolution of the tumour samples with re
 and CLARKE respectively.
 
 [Publication](/publications/m6A)
+
 [Final Report](http://jingxuanbao.github.io/files/FYP_Final_Report.pdf)
+
 [Presentation](http://jingxuanbao.github.io/files/1509561_Jingxuan_Bao_Presentation.pdf)
