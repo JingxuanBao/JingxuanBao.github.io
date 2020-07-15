@@ -14,6 +14,6 @@ In this project, we are aiming to analyse the RNA methylation sites in a given s
 an comparison between the problem of deconvolution of the tumour samples with respect to the normal samples and the problem of deconvolution of the IP samples in terms of the input samples. In this research, we examine two methods, ISOpureR
 and CLARKE respectively.
 
-[Publication](http://academicpages.github.io/files/paper1.pdf)
-[Final Report](http://academicpages.github.io/files/paper1.pdf)
-[Presentation](http://academicpages.github.io/files/paper1.pdf)
+[Publication](/publications/m6A)
+[Final Report](http://jingxuanbao.github.io/files/FYP_Final_Report.pdf)
+[Presentation](http://jingxuanbao.github.io/files/1509561_Jingxuan_Bao_Presentation.pdf)
