@@ -4,6 +4,7 @@ collection: talks
 type: "Research Project"
 permalink: /talks/dentalimage
 venue: "Perelman School of Medicine"
+excerpt: We applied four categories of machine learning strategies including nine different methods with two different feature representations to estimate the probability and severity of dental hard-tissue conditions from photographic tooth images.
 date: 2020-02-15
 location: "Philadelphia PA, USA"
 ---
