@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc in Xi'an Jiaotong-Liverpool University, 2019
-* M.A. in Jekyll, GitHub University, 2021 (expected)
+* M.A. in School of Arts and Sciences, University of Pennsylvania, 2021 (expected)
 
 Work experience
 ======
