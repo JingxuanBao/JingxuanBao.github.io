@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingxuan Bao's Personal Website"
+title: "Jingxuan Bao's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
