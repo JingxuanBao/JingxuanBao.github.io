@@ -1,5 +1,5 @@
 ---
-title: "Estimating Hard-tissue Conditions from Dental Images via Machine Learning"
+title: "Estimating Hard-tissue Conditions from Dental Images via Machine Learning (Under Reviewing)"
 collection: publications
 permalink: /publications/dentalImage
 excerpt: We applied four categories of machine learning strategies including nine different methods with two different feature representations to estimate the probability and severity of dental hard-tissue conditions from photographic tooth images.
