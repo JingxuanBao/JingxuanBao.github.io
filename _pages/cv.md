@@ -12,28 +12,10 @@ redirect_from:
 Education
 ======
 * BSc in Xi'an Jiaotong-Liverpool University, 2019
+  * Major in Applied Mathematics - BSc, GPA: 3.91/4.0
 * M.A. in School of Arts and Sciences, University of Pennsylvania, 2021 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * xxx University
-  * Duties included: xxx
-  * Supervisor: xxx
-
-* Fall 2015: Research Assistant
-  * xxx University
-  * Duties included: xxx
-  * Supervisor: xxx
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Applied Mathematics and Computational Science - MA, Cum GPA: 3.95/4.0
+  * Expected degree conferral data: May 2021
 
 Publications
 ======
@@ -47,6 +29,46 @@ Projects
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Honors
+======
+* Rajendra Bhansali Prize
+  * Top 1 in Department of Applied Mathematics
+  * Xi'an Jiaotong-Liverpool University, July 2019
+
+* China National Scholarship
+  * Top 0.2% in Mainland China
+  * Xi'an Jiaotong-Liverpool University, October 2018
+  
+* University Academic Excellent Award 2018 - 2019
+  * Top 5% in Department of Applied Mathematics
+  * Xi'an Jiaotong-Liverpool University, August 2018
+  
+* Outstanding Student Leader 2017 - 2018
+  * Top 1% in Xi'an Jiaotong-Liverpool University
+  * Xi'an Jiaotong-Liverpool University, April 2018
+  
+* University Academic Achievement Award 2017 - 2018
+  * Top 10% in Department of Applied Mathematics
+  * Xi'an Jiaotong-Liverpool University, August 2017
+  
+* University Academic Achievement Award 2016 - 2017
+  * Top 10% in Department of Applied Mathematics
+  * Xi'an Jiaotong-Liverpool University, August 2016
+
 Service and leadership
 ======
-* Review Paper
+* ACM-BCB 2020 Subreviewer
+* ICIBM 2020 Subreviewer
+* KDD 2020 Subreviewer
+* Minister of Planning Department in the Student Ambassador Union (SAU) 			             
+*	Minister of Planning Department in the Physics Club 					          
+*	Member of Liaison Department in the Youth Success Partner Association 			          
+*	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong                                         
+*	Volunteer – Comprehensive Evaluation Admissions Assessment 
+
+Skills
+======
+* R
+* Matlab
+* Python
+* Latex
