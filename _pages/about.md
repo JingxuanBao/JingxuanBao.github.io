@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master student in [Applied Mathematics and Computational Science (AMCS)](https://www.amcs.upenn.edu) program at University of Pennsylnavia (Upenn). Before joining Upenn, I received the degree of Bachelor of Science with Honours (Class I) in Applied Mathematics from Xi'an Jiaotong-Liverpool University.
+I am currently a master student in [Applied Mathematics and Computational Science (AMCS)](https://www.amcs.upenn.edu) program at University of Pennsylnavia (Upenn). Before joining Upenn, I received the dual degree of Bachelor of Science with Honours (Class I) in Applied Mathematics from The University of Liverpool and Xi'an Jiaotong-Liverpool University.
 
 My dream is to become an excellent biomedical researcher, which from my perspective should equip three capabilities, a progressive view of biomedical problems, a proficient level of computer programming, and a solid background of mathematics and statistics. 
