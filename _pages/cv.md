@@ -57,6 +57,7 @@ Honors
 
 Service and leadership
 ======
+* BIBM 2020 Co-Reviewer
 * ACM-BCB 2020 Subreviewer
 * ICIBM 2020 Subreviewer
 * KDD 2020 Subreviewer
