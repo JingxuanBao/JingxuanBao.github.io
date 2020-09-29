@@ -85,7 +85,7 @@ Service and leadership
   * Xi'an Jiaotong-Liverpool University - June, 2016
   
 *	Volunteer – Comprehensive Evaluation Admissions Assessment 
-  * Xi'an Jiaotong-Liverpool University - June, 2016
+
 
 
 Skills
