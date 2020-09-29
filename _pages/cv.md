@@ -69,6 +69,7 @@ Service and leadership
 * KDD 2020 Subreviewer
   * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - March, 2020
 * Minister of Planning Department in the Student Ambassador Union (SAU) - June, 2017
+  * abc
 *	Minister of Planning Department in the Physics Club - April, 2017 	
 *	Member of Liaison Department in the Youth Success Partner Association - September, 2016
 *	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong - June, 2016
