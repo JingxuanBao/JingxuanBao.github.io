@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* BSc in Xi'an Jiaotong-Liverpool University, 2019
-  * Major in Applied Mathematics - BSc, GPA: 3.96/4.0
 * M.A. in School of Arts and Sciences, University of Pennsylvania, 2021 (Expected)
   * Applied Mathematics and Computational Science - MA, Cum GPA: 3.95/4.0
-  * Expected degree conferral data: May 2021
+  * Expected degree conferral date: May 2021
+* BSc in University of Liverpool, 2019 
+  * Major in Applied Mathematics - BSc, GPA: 3.96/4.0
+* BSc in Xi'an Jiaotong-Liverpool University, 2019
+  * Major in Mathematics and Applied Mathematics - BSc, GPA: 3.96/4.0
 
 Publications
 ======
