@@ -61,14 +61,23 @@ Honors
 Service and leadership
 ======
 * BIBM 2020 Co-Reviewer
+  * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - September, 2020
 * ACM-BCB 2020 Subreviewer
+  * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - June, 2020
 * ICIBM 2020 Subreviewer
+  * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - May, 2020
 * KDD 2020 Subreviewer
-* Minister of Planning Department in the Student Ambassador Union (SAU) 			             
-*	Minister of Planning Department in the Physics Club 					          
-*	Member of Liaison Department in the Youth Success Partner Association 			          
-*	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong                                         
+  * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - March, 2020
+* Minister of Planning Department in the Student Ambassador Union (SAU) 
+  * Xi'an Jiaotong-Liverpool University - June, 2017
+*	Minister of Planning Department in the Physics Club 	
+  * Xi'an Jiaotong-Liverpool University - April, 2017
+*	Member of Liaison Department in the Youth Success Partner Association 
+  * Xi'an Jiaotong-Liverpool University - September, 2016
+*	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong
+  * Xi'an Jiaotong-Liverpool University - June, 2016
 *	Volunteer – Comprehensive Evaluation Admissions Assessment 
+  * Xi'an Jiaotong-Liverpool University - June, 2016
 
 Skills
 ======
