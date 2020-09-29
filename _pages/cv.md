@@ -75,6 +75,9 @@ Service and leadership
 * Minister of Planning Department in the Student Ambassador Union (SAU) 
   * Xi'an Jiaotong-Liverpool University - June, 2017
   
+*	Minister of Planning Department in the Physics Club  	
+  * Xi'an Jiaotong-Liverpool University - April, 2017
+  
 
 
 
