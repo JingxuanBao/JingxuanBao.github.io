@@ -69,15 +69,15 @@ Service and leadership
 * KDD 2020 Subreviewer
   * Dr. Li Shen's Lab, Perelman School of Medicine (Upenn) - March, 2020
 * Minister of Planning Department in the Student Ambassador Union (SAU) 
-  * Xi'an Jiaotong-Liverpool University - June, 2017
+   * Xi'an Jiaotong-Liverpool University - June, 2017
 *	Minister of Planning Department in the Physics Club 	
-  * Xi'an Jiaotong-Liverpool University - April, 2017
+   * Xi'an Jiaotong-Liverpool University - April, 2017
 *	Member of Liaison Department in the Youth Success Partner Association 
-  * Xi'an Jiaotong-Liverpool University - September, 2016
+   * Xi'an Jiaotong-Liverpool University - September, 2016
 *	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong
-  * Xi'an Jiaotong-Liverpool University - June, 2016
+   * Xi'an Jiaotong-Liverpool University - June, 2016
 *	Volunteer – Comprehensive Evaluation Admissions Assessment 
-  * Xi'an Jiaotong-Liverpool University - June, 2016
+   * Xi'an Jiaotong-Liverpool University - June, 2016
 
 Skills
 ======
