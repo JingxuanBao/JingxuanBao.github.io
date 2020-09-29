@@ -79,7 +79,7 @@ Service and leadership
   * Xi'an Jiaotong-Liverpool University - April, 2017
   
 *	Member of Liaison Department in the Youth Success Partner Association 
-  * Xi'an Jiaotong-Liverpool University - - September, 2016
+  * Xi'an Jiaotong-Liverpool University - September, 2016
   
 *	Student Ambassador & Volunteer – College Entrance Consultation Fair in Shandong 
   * Xi'an Jiaotong-Liverpool University - June, 2016
