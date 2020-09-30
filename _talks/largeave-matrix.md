@@ -4,7 +4,7 @@ collection: talks
 type: "Final Project of Probability Course"
 permalink: /talks/largeave-matrix
 venue: "School of Arts and Sciences (Upenn)"
-excerpt: We provide a Bayesian Mixture Model to classify the Case Fatality Rate (CFR) of Coronavirus Disease 2019 (COVID-19) in terms of region.
+excerpt: We investigated the maximal size of submatrices with average of the values of such submatrices more than a fixed positive number in the Gaussian random matrix.
 date: 2019-12-17
 location: "Philadelphia PA, USA"
 ---
