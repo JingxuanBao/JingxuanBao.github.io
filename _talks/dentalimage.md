@@ -14,3 +14,5 @@ Despite the great success of machine learning in various biomedical domains, app
 These results indicate that machine learning models provide promising opportunities to help clinical evaluation and save resources in the management of these dental conditions.
 
 [Publication](/publications/dentalImage)
+
+[Presentation](http://jingxuanbao.github.io/files/Estimating_Hard_Tissue_Condition_via_machine_learning_presentation.pdf)
