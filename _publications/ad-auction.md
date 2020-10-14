@@ -14,4 +14,4 @@ Advertising agencies (buyers) place television advertisements orders with the ne
 
 Sharee N. Brewer, Tykeena Watson, Jingxuan Bao. (2017). &quot;Optimal Scheduling for CK Advertisements on TV Programs.&quot; <i>Proceedings of the National Conference On Undergraduate Research (NCUR) 2017</i>.
 
-[Download paper here](http://jingxuanbao.github.io/files/2340-8275-1-PB.pdf)
+[Download paper here](https://www.ncurproceedings.org/ojs/index.php/NCUR2017/article/view/2340)
