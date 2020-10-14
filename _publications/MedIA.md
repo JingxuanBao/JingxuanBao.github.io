@@ -28,5 +28,3 @@ performance compared with several state-of-the-art competing functional network
 models.
 
 Mansu Kim, Jingxaun Bao, Kefei Liu, Bo-yong Park, Hyunjin Park, Jae Young Baik, Li Shen. (2020). &quot;A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance.&quot; <i>Medical Image Analysis</i>.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
