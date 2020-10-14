@@ -1,5 +1,5 @@
 ---
-title: "Structural Connectivity Enriched Functional Brain network using Simplex Regression with GraphNet (Accepted)"
+title: "Structural Connectivity Enriched Functional Brain network using Simplex Regression with GraphNet"
 collection: publications
 permalink: /publications/MICCAI-2020-SFN-HCP
 excerpt: We proposed a simplex regression model with graph-constrained Elastic Net (GraphNet) to estimate functional networks enriched by structural connectivity in a biologically meaningful way with a low model complexity.
