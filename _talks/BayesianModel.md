@@ -10,3 +10,5 @@ location: "Philadelphia PA, USA"
 ---
 
 We are working on development of a generalized Bayesian factor analysis (GBFA) framework, a sparse Bayesian factor analysis which can take into account the graph information. The GBFA framework employs the Laplace prior to impose sparsity on the factor loadings and employs the Graph Laplacian prior to incorporat biological knowledge (graph information). Currently, we are trying to implement the variational EM algorithm to solve the GBFA model.
+
+[Presentation](/files/Generalized Bayesian Analysis Model.pdf)
