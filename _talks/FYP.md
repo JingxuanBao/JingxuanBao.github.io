@@ -16,6 +16,6 @@ and CLARKE respectively.
 
 [Publication](/publications/m6A)
 
-[Final Report](http://jingxuanbao.github.io/files/FYP_Final_Report.pdf)
+[Final Report](/files/FYP_Final_Report.pdf)
 
-[Presentation](http://jingxuanbao.github.io/files/1509561_Jingxuan_Bao_Presentation.pdf)
+[Presentation](/files/1509561_Jingxuan_Bao_Presentation.pdf)
