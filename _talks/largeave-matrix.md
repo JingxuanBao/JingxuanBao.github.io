@@ -15,4 +15,4 @@ with average of the values of such submatrices more than a fixed positive number
 submatrices theoretically and numerically. Our principal result is an inconsistency between the results of two approaches and we propose our own analysis from the theoretical and 
 numerical perspectives.
 
-[Final Report](http://jingxuanbao.github.io/files/MTH546FinalProject_Jingxuan Bao_71671086.pdf)
+[Final Report](/files/MTH546FinalProject_Jingxuan_Bao_71671086.pdf)
