@@ -14,4 +14,4 @@ Advertising agencies (buyers) place television advertisements orders with the ne
 
 [Publication](/publications/ad-auction)
 
-[Poster](http://jingxuanbao.github.io/files/201752-share.pdf)
+[Poster](/files/201752-share.pdf)
