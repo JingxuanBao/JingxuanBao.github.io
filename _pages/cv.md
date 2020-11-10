@@ -87,6 +87,22 @@ Service and leadership
 *	Volunteer – Comprehensive Evaluation Admissions Assessment 
   <!-- * Xi'an Jiaotong-Liverpool University - June, 2016 -->
 
+Certifications
+======
+* [Stage 1 - Basic Course for Biomedical Research and Human Research](https://www.citiprogram.org/verify/?wf40e4762-8d22-4723-9b97-69ab39d8fc4a-35736650)
+  * CITI Program, A Division of BRANY - March, 2020
+  
+* [Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/NR66DNJW5GGV)
+  * deeplearning.ai, Coursera - December, 2019
+  
+* [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/35ATC26BJWJQ)
+  * deeplearning.ai, Coursera - November, 2019
+  
+* [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/DSG5NJTB7S3Z)
+  * deeplearning.ai, Coursera - November, 2019
+  
+* [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/8TW6K9WAMF8A)
+  * deeplearning.ai, Coursera - November, 2019
 
 Skills
 ======
