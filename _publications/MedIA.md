@@ -1,5 +1,5 @@
 ---
-title: "A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance (Under Reviewing)"
+title: "A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance (Major Revision)"
 collection: publications
 permalink: /publications/MedIA
 excerpt: This paper proposed a method to accurately estimate the brain functional network enriched by the structural network from diffusion magnetic resonance imaging.
