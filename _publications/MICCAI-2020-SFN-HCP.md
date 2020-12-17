@@ -14,4 +14,4 @@ The connectivity analysis is a powerful technique for investigating a hard-wired
 
 Mansu Kim, Jingxaun Bao, Kefei Liu, Bo-yong Park, Hyunjin Park, Li Shen. (2020). &quot;Structural Connectivity Enriched Functional Brain network using Simplex Regression with GraphNet.&quot; <i> International Conference on Medical Image Computing & Computer Assisted Intervention - Machine Learning in Medical Imaging Workshop </i>.
 
-[Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-59861-7_30)
+[Manuscript](https://link.springer.com/chapter/10.1007/978-3-030-59861-7_30)
