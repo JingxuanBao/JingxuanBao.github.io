@@ -14,3 +14,5 @@ Despite the great success of machine learning in various biomedical domains, app
 These results indicate that machine learning models provide promising opportunities to help clinical evaluation and save resources in the management of these dental conditions.
 
 Jingxuan Bao, Mansu Kim, Qing Sun, Anderson T. Hara, Gerardo Maupome, Li Shen. (2020). &quot;Estimating Hard-tissue Conditions from Dental Images via Machine Learning.&quot; <i>20th International Conference on BioInformatics and BioEngineering (ieeeBIBE2020)</i>.
+
+[Manuscript](https://doi.org/10.1109/BIBE50027.2020.00058)
