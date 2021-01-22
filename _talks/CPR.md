@@ -13,3 +13,4 @@ location: "Suzhou Jiangsu, China"
 We performed Kolmogorov–Smirnov tests to test for normality in the distribution for all data sets. We applied Student’s t-tests for gender groups and One-Way Analysis of Variance (ANOVA) to study the mean difference among groups within different BMI intervals. Moreover, we used univariate linear regression analyses to compare the average depth of chest compression of one-half, one-third, and one-fourth of the measured external chest depth, as well as internal anteroposterior (AP) diameter (IAPD) and external AP diameter at the midpoint of the lower half of the sternum.
 
 [Poster](/files/201866-share.pdf)
+[Abstract](https://www.atsjournals.org/doi/10.1164/ajrccm-conference.2020.201.1_MeetingAbstracts.A1769)
