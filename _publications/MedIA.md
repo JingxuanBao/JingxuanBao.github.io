@@ -27,6 +27,6 @@ demonstrated that our network model improves network consistency and its predict
 performance compared with several state-of-the-art competing functional network
 models.
 
-
+[Manuscript](https://doi.org/10.1016/j.media.2021.102026)
 
 Mansu Kim, Jingxaun Bao, Kefei Liu, Bo-yong Park, Hyunjin Park, Jae Young Baik, Li Shen. (2020). &quot;A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance.&quot; <i>Medical Image Analysis</i>.
