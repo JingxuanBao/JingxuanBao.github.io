@@ -1,5 +1,5 @@
 ---
-title: "A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance (Accepted)"
+title: "A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance"
 collection: publications
 permalink: /publications/MedIA
 excerpt: This paper proposed a method to accurately estimate the brain functional network enriched by the structural network from diffusion magnetic resonance imaging.
@@ -26,5 +26,7 @@ on 218 participants from the Human Connectome Project database. The results
 demonstrated that our network model improves network consistency and its predictive
 performance compared with several state-of-the-art competing functional network
 models.
+
+
 
 Mansu Kim, Jingxaun Bao, Kefei Liu, Bo-yong Park, Hyunjin Park, Jae Young Baik, Li Shen. (2020). &quot;A Structural Enriched Functional Network: An Application to Predict Brain Cognitive Performance.&quot; <i>Medical Image Analysis</i>.
